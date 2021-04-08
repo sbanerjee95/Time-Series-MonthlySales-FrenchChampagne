@@ -5,7 +5,7 @@
 
 **Trend**: In Time Series analysis trend is a gradual shift towards relatively lower or higher values over a long period of time.
 
-![sales_going_up](https://user-images.githubusercontent.com/17608830/113967427-9505fa00-984e-11eb-8ad7-05ccae6bfd41.jpg)
+![sales_going_up](https://user-images.githubusercontent.com/17608830/113967640-02198f80-984f-11eb-8f52-43638922a34f.jpg)
 
 In this tutorial, you will discover how to forecast the monthly sales of French champagne with Python.
 
